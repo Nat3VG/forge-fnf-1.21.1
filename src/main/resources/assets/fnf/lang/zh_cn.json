@@ -1,0 +1,82 @@
+{
+"creativetab.fnf.fnf_item": "美食与燃料",
+
+"item.fnf.logo": "FnF 标志",
+"item.fnf.carrot_bread": "胡萝卜面包",
+"item.fnf.cooked_carrot": "熟胡萝卜",
+"item.fnf.cooked_tropical_fish": "熟热带鱼",
+"item.fnf.roasted_beetroot": "烤甜菜根",
+"item.fnf.sweet_melon_smoothie": "甜瓜奶昔",
+
+"item.fnf.honeyed_bread": "蜜渍面包",
+"item.fnf.honeyed_chicken": "蜜渍鸡肉",
+"item.fnf.honeyed_rabbit": "蜜渍兔肉",
+"item.fnf.honeyed_potato": "蜜渍马铃薯",
+"item.fnf.honeyed_mutton": "蜜渍羊肉",
+"item.fnf.honeyed_porkchop": "蜜渍猪排",
+"item.fnf.honeyed_steak": "蜜渍牛排",
+"item.fnf.honeyed_cookie": "蜜渍曲奇",
+"item.fnf.honey_popped_chorus_fruit": "蜜爆紫颂果",
+
+"item.fnf.kelp_wrapped_cod": "海带裹鳕鱼",
+"item.fnf.kelp_wrapped_salmon": "海带裹鲑鱼",
+"item.fnf.kelp_wrapped_tropical_fish": "海带裹热带鱼",
+"item.fnf.kelp_wrapped_veggie_sticks": "海带裹蔬菜棒",
+
+"item.fnf.dried_kelp_wrapped_cod": "干海带裹鳕鱼",
+"item.fnf.dried_kelp_wrapped_salmon": "干海带裹鲑鱼",
+"item.fnf.dried_kelp_wrapped_tropical_fish": "干海带裹热带鱼",
+"item.fnf.dried_kelp_wrapped_veggie_sticks": "干海带裹蔬菜棒",
+
+"item.fnf.veggie_soup": "蔬菜汤",
+"item.fnf.piping_hot_beetroot_soup": "滚烫甜菜根汤",
+"item.fnf.piping_hot_veggie_soup": "滚烫蔬菜汤",
+"item.fnf.piping_hot_mushroom_stew": "滚烫蘑菇煲",
+"item.fnf.piping_hot_rabbit_stew": "滚烫兔肉煲",
+"item.fnf.mushroom_chicken_stew": "蘑菇炖鸡肉",
+"item.fnf.mushroom_mutton_stew": "蘑菇炖羊肉",
+"item.fnf.mushroom_beef_stew": "蘑菇炖牛肉",
+"item.fnf.mushroom_pork_stew": "蘑菇炖猪肉",
+
+"item.fnf.miners_delight": "矿工盛宴",
+"item.fnf.farmers_grace": "农夫恩赐",
+"item.fnf.highlanders_meal": "高地盛宴",
+"item.fnf.explorers_fancy_cooking": "探险家珍馐",
+"item.fnf.nether_dwellers_subsistence": "下界居者简餐",
+"item.fnf.lucky_star": "幸运之星",
+"item.fnf.fishermans_secret_broth": "渔夫秘制浓汤",
+
+"item.fnf.raw_beef_skewer": "生牛肉串",
+"item.fnf.raw_chicken_skewer": "生鸡肉串",
+"item.fnf.raw_mutton_skewer": "生羊肉串",
+"item.fnf.raw_pork_skewer": "生猪肉串",
+"item.fnf.raw_rabbit_skewer": "生兔肉串",
+
+"item.fnf.cooked_beef_skewer": "熟牛肉串",
+"item.fnf.cooked_chicken_skewer": "熟鸡肉串",
+"item.fnf.cooked_mutton_skewer": "熟羊肉串",
+"item.fnf.cooked_pork_skewer": "熟猪肉串",
+"item.fnf.cooked_rabbit_skewer": "熟兔肉串",
+
+"item.fnf.raw_glowing_beef_skewer": "生荧牛肉串",
+"item.fnf.raw_glowing_chicken_skewer": "生荧鸡肉串",
+"item.fnf.raw_glowing_mutton_skewer": "生荧羊肉串",
+"item.fnf.raw_glowing_pork_skewer": "生荧猪肉串",
+"item.fnf.raw_glowing_rabbit_skewer": "生荧兔肉串",
+
+"item.fnf.cooked_glowing_beef_skewer": "熟荧牛肉串",
+"item.fnf.cooked_glowing_chicken_skewer": "熟荧鸡肉串",
+"item.fnf.cooked_glowing_mutton_skewer": "熟荧羊肉串",
+"item.fnf.cooked_glowing_pork_skewer": "熟荧猪肉串",
+"item.fnf.cooked_glowing_rabbit_skewer": "熟荧兔肉串",
+
+"item.fnf.paper_stack": "纸叠",
+"item.fnf.bio_fuel": "生物燃料",
+"item.fnf.blazing_coal": "烈焰煤炭",
+"item.fnf.blazerod_bundle": "烈焰棒捆",
+
+"item.fnf.fire_core": "烈焰核心",
+"item.fnf.energized_fire_core": "充能烈焰核心",
+"item.fnf.soul_fire_core": "灵魂烈焰核心",
+"item.fnf.energized_soul_fire_core": "充能灵魂烈焰核心"
+}
